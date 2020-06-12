@@ -2,5 +2,5 @@
     name: autoflake
     entry: autoflake
     language: python
-    'types': [python]
+    types: [python]
     require_serial: true
